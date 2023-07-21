@@ -1,2 +1,2 @@
 from alpine
-apk add py3-pip
+RUN apk add py3-pip
