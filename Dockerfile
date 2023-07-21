@@ -1,2 +1,3 @@
 from alpine
-RUN apk add py3-pip
+RUN apk add --no-cache py3-pip curl jq bash
+CMD ["/bin/bash"]
