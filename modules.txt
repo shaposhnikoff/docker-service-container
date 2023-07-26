@@ -1,2 +1,5 @@
 boto3
 requests
+numpy
+flask
+prometheus_client
